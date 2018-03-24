@@ -1,0 +1,2 @@
+# electroleum-pool
+mining etn
